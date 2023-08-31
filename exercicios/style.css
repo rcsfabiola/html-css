@@ -1,0 +1,53 @@
+#imagempocoyo {
+  width: 50px;
+  height: 50px;
+  border: thick dashed blue;
+}
+
+#patopocoyo {
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+#Elly {
+  width: 50px;
+  height: 50px;
+}
+
+#fabizinha {
+  border: thick dashed blueviolet;
+}
+
+#helloworld {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: blueviolet;
+  background-color: aqua;
+  padding: 20px;
+  padding-block-end: 20px;
+  border: thick dashed violet;
+  margin-top: 50px;
+}
+
+#fabizinha1 {
+  color: blueviolet;
+  font-family: "Lucida Sans";
+  border: thick dashed blue;
+}
+
+.minhaClasseDeLinha {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.minhaClasseDeColuna {
+  height: 10vh;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
